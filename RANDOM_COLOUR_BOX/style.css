@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgba(73, 116, 148, 0.482) */
+}
+.colour{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 50px;
+  height: 200px;
+  width: 600px;
+  border: solid 1px;
+}
+P{
+  font-size: 50px;
+}
+.btn{
+  font-size: 30px;
+  margin: 50px;
+  height: auto;
+  width: auto;
+}
+h1{
+  margin: 50px;
+}
